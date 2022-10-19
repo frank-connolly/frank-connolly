@@ -3,11 +3,3 @@
 ![Stars](https://img.shields.io/github/stars/frank-connolly)
 
 Hi, I’m Frank 👋  
-
-```mermaid
-  pie
-  title 🌱 Currently Learning
-    "Front End" : 30
-    "CI/CD" : 15
-    "Back End" : 55
-```
