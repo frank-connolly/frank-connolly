@@ -3,7 +3,7 @@
 ![Stars](https://img.shields.io/github/stars/frank-connolly)
 
 Hi, I’m Frank 👋  
-👀 Irish developer living in Poland
+
 ```mermaid
   pie
   title 🌱 Currently Learning
@@ -11,4 +11,3 @@ Hi, I’m Frank 👋
     "CI/CD" : 15
     "Back End" : 55
 ```
----
