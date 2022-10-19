@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @frank-connolly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Frank Connolly](https://img.shields.io/badge/Frank-Connolly-<COLOR>.svg)
+![Followers](https://img.shields.io/github/followers/frank-connolly)
+![Stars](https://img.shields.io/github/stars/frank-connolly)
 
-<!---
-frank-connolly/frank-connolly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Frank 👋  
+👀 Irish developer living in Poland
+```mermaid
+  pie
+  title 🌱 Currently Learning
+    "Front End" : 30
+    "CI/CD" : 15
+    "Back End" : 55
+```
+---
