@@ -1,8 +1,6 @@
 Hi, I’m Frank 👋  
 
-Switched to GitLab starting 2024. 
-
-Contributions can be hidden by private organisations or I'm using GitLab so here are some more accurate activity stats:
+Private orgs or using GitLab can hide my actual contributions so here are some more accurate activity stats:
 
 Switched to GitLab during 2024:
   
