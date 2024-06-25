@@ -2,7 +2,7 @@ Hi, I’m Frank 👋
 
 Private orgs or using GitLab can hide my actual contributions so here are some more accurate activity stats:
 
-Switched to GitLab during 2024:
+GitLab 2024:
   
 ![image](https://github.com/frank-connolly/frank-connolly/assets/49915133/9704de3f-158c-4806-b584-e0b68e22661a)
 
