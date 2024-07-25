@@ -4,7 +4,8 @@ Private orgs or using GitLab can hide my actual contributions so here are some m
 
 GitLab 2024:
   
-![image](https://github.com/frank-connolly/frank-connolly/assets/49915133/9704de3f-158c-4806-b584-e0b68e22661a)
+![image](https://github.com/user-attachments/assets/cabb592c-4865-4265-94db-dc44ab164838)
+
 
 2023:
 
